@@ -1,0 +1,33 @@
+.title{
+  background-color: white;
+  color:white;
+   font-size: 3vh;
+   text-align: center;
+   font-family: cursive;
+}
+
+#body {
+    background-image: url("https://thumbs.dreamstime.com/b/hacker-hoodie-using-abstract-glowing-digital-business-interface-globe-various-other-icons-blurry-blue-wallpaper-260220205.jpg");
+    background-position: 50px;
+    background-size: unset;
+}
+
+.title:hover {
+    text-transform: uppercase;
+    text-decoration:white;
+}
+
+#header{
+    font-size: 50px;
+    color: white;
+}
+#header:hover {
+    color: red;
+}
+
+div {
+    color: white;
+}
+div:hover {
+    color: red;
+}
